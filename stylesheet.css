@@ -1,0 +1,128 @@
+body {
+    background-color:ivory;
+    font-family: 'Quattrocento Sans', sans-serif;
+    font-size: 20px;
+    
+}
+
+
+#profile-pic { 
+    height: auto;
+    max-height:500px;
+    
+    margin-top: 400px;
+    border-radius: 20%;
+    border: 5px solid darkgreen;
+
+
+}
+
+#name {
+    color:darkgreen;
+    
+}
+
+#name1 {
+    background-color:darkgreen;
+    color:ivory;
+    padding: .25%;
+    opacity: .85;
+    border-radius: 4%;
+   
+}
+
+header {
+    float: left;
+    white-space: nowrap;
+    overflow: hidden;
+    padding: 8px;
+    
+}
+
+a {
+    color:black;
+}
+
+.intro-quote {
+    display: flex;
+    gap: 20px;
+   
+
+}
+
+#quote {
+    margin-top: 575px;
+    white-space: nowrap;
+    font-size:  35px;
+}
+
+.intro-quote h3 {
+ padding-left: 5%;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+li {
+    float: right;
+}
+
+   
+
+nav a {
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+}
+
+li a:hover {
+  
+    background-color: darkgreen;
+    color:ivory;
+    opacity: .85;
+    border-radius: 10%;
+    font-size: 20px;
+  }
+
+
+  #nothing-message {
+    width: 450px;
+    padding-top: 400px;
+   margin: auto;
+   margin-top: auto;
+    opacity: .85;
+
+  }
+
+  #nothing-message p {
+    border-style: solid;
+    border-color: darkgreen;
+    border-width: 20px;
+    background-color: darkgreen;
+    color: ivory;
+    border-radius: 25px;
+  }
+
+  #about {
+    
+    width: 200px:
+  }
+
+  #family-pic {
+    width: 700px;
+    margin: auto;
+    margin-top: auto;
+    border-radius: 20%;
+    border: 5px solid darkgreen;
+  }
+
+  #about {
+    width: 700px;
+    margin: auto;
+    padding: 175px;
+  }
+
